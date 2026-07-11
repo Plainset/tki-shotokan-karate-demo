@@ -681,6 +681,7 @@ section {
   padding: 0.85rem 1rem;
   border-bottom: 1px solid var(--line);
   min-width: 0;
+  color: var(--text-on-paper);
 }
 
 .schedule-table thead th {
@@ -750,6 +751,7 @@ section {
   border: 1px solid var(--line);
   border-radius: var(--radius-md);
   background: var(--paper-white);
+  color: var(--text-on-paper);
   padding: 0.4rem 1.4rem;
   margin-bottom: 0.8rem;
 }
